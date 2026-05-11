@@ -81,7 +81,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - Help Alge escape by moving through the levels to the escape tube.
 - [Alien Invasion](https://github.com/cykod/AlienInvasion) - Don't let the aliens reach the bottom, eliminate them using your spaceship.
 - [Arashi](https://github.com/stephank/arashi-js) - Clone of the Arcade game Tempest. Survive as long as possible and score many points as possible.
-- [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
+- [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. Destroy asteroids and saucers controlling a triangular ship rotating left and right.
 - [Avabranch](https://github.com/Zolmeister/avabranch) - Get your Ava away from the blocks moving between them.
 - [Ball And Wall](https://github.com/budnix/ball-and-wall) - Destroy the blocks using the Vaus, that is ejected from the ship.
 - [Breakout](https://github.com/Couchfriends/breakout) - Multiplayer with HTML5. Destroy the blocks using one ball from your ship.
@@ -94,7 +94,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript.
 - [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail.
 - [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel.
-- [Core Commiter](https://github.com/vladikoff/game-off-2012) - Choose an open source project and help that project by sorting code to proper branches.
+- [Core Committer](https://github.com/vladikoff/game-off-2012) - Choose an open source project and help that project by sorting code to proper branches.
 - [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
 - [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it.
 - [D3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library.
@@ -119,7 +119,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter.
 - [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias.
 - [Phaser Snake](https://github.com/gamedolphin/JavaScript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
-- [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demostrates the power of the Entity game engine.
+- [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - Simple platformer game that demonstrates the power of the Entity game engine.
 - [PolyBranch](https://github.com/gbatha/PolyBranch) - Minimalist 3D game. Dodging branches may seem easy at first, let's see how long can you hold up as you approach terminal velocity.
 - [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
 - [Raging Gardens](https://github.com/petarov/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
@@ -131,7 +131,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
 - [Spashal](https://github.com/MrRar/spashal) - Danger lurks around every corner in space.
 - [Square Off!](https://github.com/ScriptaGames/SquareOff) - Multiplayer 1v1 air-hockey style game, place squares to deflect the ball.
-- [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developped with PhaserJavaScript Framework.
+- [Space Crusade](https://github.com/Loopeex/space-crusade) - HTML5 game developed with PhaserJavaScript Framework.
 - [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) - One level written with Backbone Game Engine.
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - Playable HTML + CSS + JavaScript remake of a space-based "shoot-'em-up" arcade game for Atari / Commodore 64 from 1982, including a level editor and design tool.
 - [WPilot](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
@@ -498,7 +498,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Dash](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 - [Duality](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 - [EaselJavaScript](https://github.com/CreateJavaScript/EaselJavaScript) - Library to make working with the Canvas element easier.
-- [EntityJavaScript](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
+- [EntityJavaScript](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utilizing the entity-component design.
 - [Evennia MUD/MU* Creation System](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 - [Flare](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 - [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
