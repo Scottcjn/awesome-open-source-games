@@ -124,7 +124,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Protocol 390](https://github.com/josegallegos07/game-off-2013) - To survive in People's Park, you must supply the prophet with change.
 - [Raging Gardens](https://github.com/petarov/game-off-2012) - JavaScript/HTML5 web browser game where a a hungry (ninja) rabbit farts too often.
 - [Release Cycles](https://github.com/RothschildGames/release-cycles) - Abstract racing game where you fight against the clock and the computer to get as far as you can in a product's life-cycle.
-- [Save The Forest](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on tress using his magical water tank in order to save the Burning Forests.
+- [Save The Forest](https://github.com/softvar/save-the-forest) - Fully canvas based HTML5 game where a player has to extinguish fire on trees using his magical water tank in order to save the Burning Forests.
 - [Ski Free](https://github.com/basicallydan/skifree.js) - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
 - [Snake](https://github.com/jrgdiz/snake) - Simple clone of the snake game, using canvas and JavaScript.
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - Classic nokia snake game using web.
@@ -212,7 +212,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Sliding Puzzle](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game.
 - [Sudoku JavaScript](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind.
 - [Swap](https://github.com/nmoroze/swap) - New take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
-- [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.
+- [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making your way to the end of the level with the provided transformations.
 - [Untrusted](https://github.com/AlexNisnevich/untrusted) - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
 - [Matching Pairs](https://github.com/gamedolphin/matching-pairs) - Made in HTML5 using Phaser as the framework, original assets and generated music.
 - [Zoko](https://github.com/lulea/game-off-2012) - 3D version of Sokoban.
