@@ -101,7 +101,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Digger](https://github.com/lutzroeder/digger) - The player is placed in an underground maze and can dig horizontal and vertical tunnels through it.
 - [Drakonas](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library.
 - [Drill Bunny](https://github.com/DreamShowAdventures/LudumDare29) - Drill game with a bunny finding good stuff under the earth.
-- [DuckHunt JavaScript](https://github.com/MattSurabian/DuckHunt-JavaScript) - DuckHunt ported to JavaScript and HTML5 with a level creator.
+- [DuckHunt JavaScript](https://github.com/MattSurabian/DuckHunt-JS) - DuckHunt ported to JavaScript and HTML5 with a level creator.
 - [Emberwind](https://github.com/operasoftware/Emberwind) - Fantasy game port of the indie platform game Emberwind.
 - [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) - Clone of NES game MegaMan, written in JavaScript.
 - [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - Renders a table tennis game interacting with a full-color real-time fluid simulation at 60 FPS.
